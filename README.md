@@ -92,3 +92,6 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 For inquiries, feedback, or collaborations, reach out at kritikrishna000@gmail.com 
 
+Live project:
+user panel: https://kriti-food-del-frontend.onrender.com/
+admin panel: https://kriti-food-del-adminpanel.onrender.com/
